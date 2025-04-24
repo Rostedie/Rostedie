@@ -10,7 +10,7 @@ Bienvenue sur une partie de ma vie sur internet, je suis developpeuse et j'inspi
 
 N'hésitez pas à prendre contact avec [moi][#] pour tout ce qui touche à la technologie ou pour dire bonjour ! Façonnons ensemble l'avenir de tech.👋
 
-- **Tech stack :**
+ **Tech stack :**
 - **Langages** :HTML, CSS, JavaScript, SQL
 - **Frameworks & outils** : Talwink CSS, react, Flutter, Flutterlow
 - **Dosign & UI/UX** : Figma
