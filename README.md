@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋 je suis **MOLANGUE Rostedie Joceline**
 
-<!--
-**Rostedie/Rostedie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+content de vous voir
 
-Here are some ideas to get you started:
+Developpement web former dans le cadre du projet D-CLIC de l OIF
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##A propos de moi
+
+Bienvenue sur une partie de ma vie sur internet, je suis developpeuse et j inspire à faire carriére dans le developpement web en travaillent sur des projet fort impact au congo et dans le monde entier.
+
+N'hésitez pas à prendre contact avec [moi][#] pour tout ce qui touche à la technologie ou pour dire bonjour ! Façonnons ensemble l'avenir de tech.
+
+**Tech stack :**
+**Langages** :HTML, CSS, JavaScript, SQL
+**Frameworks & outils** : Talwink CSS, react, Flutter, Flutterlow
+**Dosign & UI/UX** : Figma
+**Base de données** : PostgreSQL
+**Versionig** Git & Github
+
+
+## Me contacter :
+**Email** : rostediemolangue46gmail.com
